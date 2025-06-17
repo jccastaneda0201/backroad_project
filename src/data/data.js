@@ -1,7 +1,7 @@
-// import tour1 from './images/tour-1.jpeg';
-// import tour2 from './images/tour-2.jpeg';
-// import tour3 from './images/tour-3.jpeg';
-// import tour4 from './images/tour-4.jpeg';
+import tour1 from '../assets/images/tour-1.jpeg';
+import tour2 from '../assets/images/tour-2.jpeg';
+import tour3 from '../assets/images/tour-3.jpeg';
+import tour4 from '../assets/images/tour-4.jpeg';
 
 export const pageLinks = [
   { id: 1, href: '#home', text: 'home' },
@@ -15,26 +15,26 @@ export const socialLinks = [
   { id: 3, href: 'https://www.twitter.com', icon: 'fab fa-squarespace' },
 ];
 
-// export const services = [
-//   {
-//     id: 1,
-//     icon: 'fas fa-wallet fa-fw',
-//     title: 'saving money',
-//     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit Asperiores, officia.',
-//   },
-//   {
-//     id: 2,
-//     icon: 'fas fa-tree fa-fw',
-//     title: 'endless hiking',
-//     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit Asperiores, officia.',
-//   },
-//   {
-//     id: 3,
-//     icon: 'fas fa-socks fa-fw',
-//     title: 'amazing comfort',
-//     text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit Asperiores, officia.',
-//   },
-// ];
+export const services = [
+  {
+    id: 1,
+    icon: 'fas fa-wallet fa-fw',
+    title: 'saving money',
+    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit Asperiores, officia.',
+  },
+  {
+    id: 2,
+    icon: 'fas fa-tree fa-fw',
+    title: 'endless hiking',
+    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit Asperiores, officia.',
+  },
+  {
+    id: 3,
+    icon: 'fas fa-socks fa-fw',
+    title: 'amazing comfort',
+    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit Asperiores, officia.',
+  },
+];
 
 // export const tours = [
 //   {
